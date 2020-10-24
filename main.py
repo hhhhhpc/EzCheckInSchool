@@ -103,9 +103,11 @@ def main():
                     "value": "无症状"
                 }
             ],
+            
             "customerAppTypeRuleId": customer_app_type_rule_id,
             "clockState": 0
         },
+        "token": "6823286d-7aea-4836-bf03-f1f1d0ac1b25"
     }
 
     # 提交打卡与结果判定
